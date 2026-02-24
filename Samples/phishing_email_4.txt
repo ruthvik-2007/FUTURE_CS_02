@@ -1,0 +1,7 @@
+Subject: Security Alert – Unusual Login Detected
+From: security@goog1e-support.com
+
+We detected an unusual login attempt on your account.
+If this was not you, secure your account immediately.
+
+Secure now: http://goog1e-security-alert.com

@@ -1,0 +1,7 @@
+Subject: Update Required – Email Quota Exceeded
+From: admin@mail-support.com
+
+Your mailbox has exceeded its storage limit.
+Failure to update will result in email suspension.
+
+Update here: http://mail-quota-fix.com
